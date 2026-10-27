@@ -8,6 +8,12 @@ I build projects in geospatial visualization and algorithmic decision-making. At
 
 ## Selected projects
 
+### [ALGOGEM Auction Bot](https://github.com/ryanboanlai/algogem-auction-bot)
+
+A Python bot I built during Jane Street AMP for a four-player sealed-bid auction game. It tracks opponents' gem holdings, scores reveal choices against the leading rival, and uses fixed bids with balance limits and separate thresholds for loan and investment values. The repository includes my saved competition source, a runnable offline example, and smoke checks.
+
+**Python · Opponent modeling · Game strategy** · [Source and setup](https://github.com/ryanboanlai/algogem-auction-bot) · [Project notes](https://ryan-lai-portfolio.sillykrill10.chatgpt.site/#project-algogem)
+
 ### [Global Flu Tracker](https://github.com/ryanboanlai/Bird-Flu-Tracker)
 
 A bird and swine flu visualization project built with a three-person team. We placed **second overall at HackAppleton 2025**. My work included the Leaflet map, toggleable case layers, and location-based proximity scoring using Haversine distance and Nominatim geocoding.
@@ -21,12 +27,6 @@ The linked repository is a fork of my teammate Akshath's repository and includes
 Source for my portfolio website, with responsive layouts, expandable project details, and keyboard-accessible dialogs.
 
 **HTML · CSS · JavaScript** · [Live site](https://ryan-lai-portfolio.sillykrill10.chatgpt.site/)
-
-### ALGOGEM Auction Bot
-
-A Python bot I built during Jane Street AMP for a four-player sealed-bid auction game. It tracks opponents' gem holdings, scores reveal choices against the leading rival, and adjusts bidding thresholds to auction type and available coins.
-
-**Python · Opponent modeling · Game strategy** · [Project notes](https://ryan-lai-portfolio.sillykrill10.chatgpt.site/#project-algogem)
 
 ## Technical background
 
