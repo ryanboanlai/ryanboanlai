@@ -4,7 +4,7 @@ Electrical Engineering student at the **University of Wisconsin–Madison**, Cla
 
 I work on spatial mapping, geospatial visualization, and algorithmic decision-making. At Jane Street's Academy of Math and Programming, I worked on probability, programming, and game strategy.
 
-[Portfolio](https://ryan-lai-portfolio.sillykrill10.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/ryanboanlai/) · [Email](mailto:rlai23@wisc.edu)
+[Portfolio](https://ryan-lai-portfolio.kimisui227.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/ryanboanlai/) · [Email](mailto:rlai23@wisc.edu)
 
 ## Latest project
 
@@ -51,7 +51,7 @@ The linked repository is a fork of my teammate Akshath's repository and includes
 
 Source for my portfolio website, with responsive layouts, expandable project details, and keyboard-accessible dialogs.
 
-**HTML · CSS · JavaScript** · [Live site](https://ryan-lai-portfolio.sillykrill10.chatgpt.site/)
+**HTML · CSS · JavaScript** · [Live site](https://ryan-lai-portfolio.kimisui227.chatgpt.site/)
 
 ## Technical background
 
