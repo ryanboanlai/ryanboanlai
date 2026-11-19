@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ryan Lai. Electrical engineering and software.</title>
+  <desc id="desc">An original geometric room and signal illustration beside Ryan's name. Decorative illustration, not a measured room scan.</desc>
+  <rect width="1200" height="300" rx="16" fill="#f4f8f1"/>
+  <path d="M36 48v204" stroke="#365d26" stroke-width="3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="66" y="69" fill="#4c6252" font-size="19" letter-spacing="3">ENGINEERING / SOFTWARE / STRATEGY</text>
+    <text x="62" y="169" fill="#15291c" font-size="82" font-weight="600" letter-spacing="-3">Ryan Lai<tspan fill="#365d26">.</tspan></text>
+    <text x="66" y="218" fill="#15291c" font-size="25">Electrical Engineering · UW–Madison</text>
+    <text x="66" y="254" fill="#4c6252" font-size="20">Spatial mapping. Auction strategy. Interactive maps.</text>
+  </g>
+  <g stroke="#c4d4c4" stroke-width="1" opacity=".4"><path d="M820 30v240"/><path d="M856 30v240"/><path d="M892 30v240"/><path d="M928 30v240"/><path d="M964 30v240"/><path d="M1000 30v240"/><path d="M1036 30v240"/><path d="M1072 30v240"/><path d="M802 42h334"/><path d="M802 78h334"/><path d="M802 114h334"/><path d="M802 150h334"/><path d="M802 186h334"/><path d="M802 222h334"/><path d="M802 258h334"/></g>
+  <g stroke="#365d26" fill="none" stroke-linejoin="round">
+    <path d="m848 120 117-57 124 54-119 62-122-59v79l122 57 119-62v-77M970 179v77M965 63v77l124 54M848 199l117-59 5 39" stroke-width="2" opacity=".65"/>
+    <path d="M733 150h41l18-28 22 56 23-34 31 1" stroke-width="2.5"/>
+  </g>
+  <g fill="#365d26"><circle cx="856" cy="97" r="2.5" opacity="0.35"/><circle cx="903" cy="128" r="2.5" opacity="0.5"/><circle cx="950" cy="159" r="2.5" opacity="0.6499999999999999"/><circle cx="997" cy="190" r="2.5" opacity="0.7999999999999999"/><circle cx="1044" cy="107" r="2.5" opacity="0.35"/><circle cx="877" cy="138" r="2.5" opacity="0.5"/><circle cx="924" cy="169" r="2.5" opacity="0.6499999999999999"/><circle cx="971" cy="200" r="2.5" opacity="0.7999999999999999"/><circle cx="1018" cy="117" r="2.5" opacity="0.35"/><circle cx="1065" cy="148" r="2.5" opacity="0.5"/><circle cx="898" cy="179" r="2.5" opacity="0.6499999999999999"/><circle cx="945" cy="210" r="2.5" opacity="0.7999999999999999"/><circle cx="992" cy="127" r="2.5" opacity="0.35"/><circle cx="1039" cy="158" r="2.5" opacity="0.5"/><circle cx="872" cy="189" r="2.5" opacity="0.6499999999999999"/><circle cx="919" cy="106" r="2.5" opacity="0.7999999999999999"/><circle cx="966" cy="137" r="2.5" opacity="0.35"/><circle cx="1013" cy="168" r="2.5" opacity="0.5"/><circle cx="1060" cy="199" r="2.5" opacity="0.6499999999999999"/><circle cx="893" cy="116" r="2.5" opacity="0.7999999999999999"/><circle cx="940" cy="147" r="2.5" opacity="0.35"/><circle cx="987" cy="178" r="2.5" opacity="0.5"/><circle cx="1034" cy="209" r="2.5" opacity="0.6499999999999999"/><circle cx="867" cy="126" r="2.5" opacity="0.7999999999999999"/><circle cx="914" cy="157" r="2.5" opacity="0.35"/><circle cx="961" cy="188" r="2.5" opacity="0.5"/><circle cx="1008" cy="105" r="2.5" opacity="0.6499999999999999"/><circle cx="1055" cy="136" r="2.5" opacity="0.7999999999999999"/><circle cx="888" cy="167" r="2.5" opacity="0.35"/><circle cx="935" cy="198" r="2.5" opacity="0.5"/><circle cx="982" cy="115" r="2.5" opacity="0.6499999999999999"/><circle cx="1029" cy="146" r="2.5" opacity="0.7999999999999999"/><circle cx="733" cy="150" r="4"/><circle cx="970" cy="179" r="5"/></g>
+</svg>
