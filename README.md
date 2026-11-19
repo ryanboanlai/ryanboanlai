@@ -13,7 +13,7 @@ A prototype that connects phone LiDAR scans to a browser for persistent room map
 
 My contributions included the mapper-to-viewer adapter, spatial memory, room classification, floor-plan exports, audio cues, and work on the HC-SR04 firmware and sonar cross-check. The team recorded real-phone scans; the repository documents the prototype's test scope and limitations.
 
-[My mapper adapter](https://github.com/AkshathCodes/EchoSense/blob/main/src/mapper-adapter.js) · [Floor-plan code](https://github.com/AkshathCodes/EchoSense/blob/main/src/room-plan.js) · [Setup and team credit](https://github.com/AkshathCodes/EchoSense#readme)
+[Case study](https://ryan-lai-portfolio.kimisui227.chatgpt.site/#project-echo) · [My mapper adapter](https://github.com/AkshathCodes/EchoSense/blob/main/src/mapper-adapter.js) · [Floor-plan code](https://github.com/AkshathCodes/EchoSense/blob/main/src/room-plan.js) · [Setup and team credit](https://github.com/AkshathCodes/EchoSense#readme)
 
 <details>
 <summary>View a real LiDAR scan from MadHacks</summary>
@@ -27,7 +27,7 @@ Recorded by the team using the iPhone mapper. Color represents height; orange ma
 ### [ALGOGEM Auction Bot](https://github.com/ryanboanlai/algogem-auction-bot)
 **Jane Street AMP · Python · Auction strategy**
 
-A bot for a four-player sealed-bid gem game. I implemented opponent-holdings tracking, reveal scoring against the strongest rival, and fixed bidding rules with auction-specific balance limits. Includes a runnable offline example and smoke checks; program starter-code credit is preserved.
+A bot for a four-player sealed-bid gem game. I implemented opponent-holdings tracking, reveal scoring against the strongest rival, and fixed bidding rules with auction-specific balance limits. Built using the program's provided client. The repository includes a runnable offline example and smoke checks.
 
 ### [Global Flu Tracker](https://github.com/ryanboanlai/Bird-Flu-Tracker)
 **HackAppleton 2025 · Second overall · Three-person team**
