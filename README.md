@@ -1,25 +1,58 @@
-# Ryan Lai
+<h1 align="center">Ryan Lai</h1>
 
-I'm studying electrical engineering at UW–Madison, class of 2030, and plan to add a Computer Sciences major.
+<p align="center">
+  Electrical Engineering student at UW–Madison · Class of 2030<br>
+  Planning an additional major in Computer Sciences
+</p>
 
-[Website](https://ryan-lai-portfolio.kimisui227.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/ryanboanlai/) · [Email](mailto:ryan.boan.lai@gmail.com)
+<p align="center">
+  <a href="https://ryan-lai-portfolio.kimisui227.chatgpt.site/">Website</a>&nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/ryanboanlai/">LinkedIn</a>&nbsp; · &nbsp;
+  <a href="mailto:ryan.boan.lai@gmail.com">Email</a>
+</p>
 
-## Projects
+## ECHO RESCUE
 
-### [ECHO RESCUE](https://github.com/AkshathCodes/EchoSense)
+**iPhone LiDAR room mapping · MadHacks 2026**
 
-Charvik, Akshath, Rishi, and I built a room-mapping prototype at MadHacks 2026 using an iPhone's LiDAR. I worked on connecting the mapper to the browser, spatial memory, room classification, and floor-plan exports.
-
-<a href="https://github.com/AkshathCodes/EchoSense/blob/0a906a2fe4a9dd1e73a4666b74363942c633c61a/docs/SCANS.md">
-  <img src="assets/echosense-scan.webp" width="420" alt="A room scan recorded by our team at MadHacks. Points are colored by height, with the phone's path in orange.">
+<a href="https://github.com/AkshathCodes/EchoSense/blob/c774c839dc74b2860743a243f3d6f4d00e59a12e/docs/media/echosense-demo.mp4">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/echosense-real-scan.webp">
+    <img src="assets/echosense-real-scan.gif" width="800" alt="An excerpt from our team's demo, labeled REAL SCAN, showing a recorded iPhone LiDAR room map.">
+  </picture>
 </a>
 
-*A scan recorded by our team. [More scans and notes](https://github.com/AkshathCodes/EchoSense/blob/0a906a2fe4a9dd1e73a4666b74363942c633c61a/docs/SCANS.md).*
+<sub>Recorded phone data from the team's demo. Click to watch the full video.</sub>
 
-### [ALGOGEM](https://github.com/ryanboanlai/algogem-auction-bot)
+Built with Charvik, Akshath, and Rishi. I worked on the mapper-to-browser integration, spatial memory, room classification, and floor-plan exports. The repository documents the prototype's test scope.
 
-A Python bot I wrote during Jane Street AMP for a four-player gem auction, using the program's client and template. It tracks opponents' gems, uses fixed bidding rules, and compares holdings to choose which card to reveal. There's an [offline example](https://github.com/ryanboanlai/algogem-auction-bot#try-the-strategy) you can run without the original game server.
+[Team repository](https://github.com/AkshathCodes/EchoSense) · [My mapper adapter](https://github.com/AkshathCodes/EchoSense/blob/main/src/mapper-adapter.js) · [Floor-plan code](https://github.com/AkshathCodes/EchoSense/blob/main/src/room-plan.js)
 
-### [Global Flu Tracker](https://github.com/ryanboanlai/Bird-Flu-Tracker)
+## More projects
 
-Built with Akshath and Michael at HackAppleton 2025, where we placed second overall. I worked on the Leaflet map, case-layer toggles, and location-based proximity scores. The link goes to my fork of [Akshath's repository](https://github.com/AkshathCodes/Bird-Flu-Tracker).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ryanboanlai/algogem-auction-bot">ALGOGEM</a></h3>
+      <p><sub>Python · Jane Street AMP 2026</sub></p>
+      <p>A bot I wrote for a four-player gem auction using the program's client and template. It tracks opponents' holdings, follows fixed bidding rules, and scores reveal choices.</p>
+      <p><a href="https://github.com/ryanboanlai/algogem-auction-bot/blob/main/strategy.py">Read the strategy</a> · <a href="https://github.com/ryanboanlai/algogem-auction-bot#try-the-strategy">Run the example</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ryanboanlai/Bird-Flu-Tracker">Global Flu Tracker</a></h3>
+      <p><sub>JavaScript · HackAppleton 2025</sub></p>
+      <p>Built with Akshath and Michael. We placed second overall. I worked on the Leaflet map, case-layer toggles, and distance-based proximity scores using demonstration data.</p>
+      <p><a href="https://github.com/ryanboanlai/Bird-Flu-Tracker">Code and setup</a> · <a href="https://github.com/AkshathCodes/Bird-Flu-Tracker">Akshath's original repo</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>About the demo and team credit</summary>
+
+The preview is a six-second excerpt from the section labeled **REAL SCAN** in our [team demo](https://github.com/AkshathCodes/EchoSense/blob/c774c839dc74b2860743a243f3d6f4d00e59a12e/docs/media/echosense-demo.mp4). The full video also includes scenes labeled simulated. Real-phone mapping, geometric classification, and the sonar cross-check have different validation scopes; the [team README](https://github.com/AkshathCodes/EchoSense#readme) explains those limits.
+
+The flu tracker link is my portfolio fork of Akshath's repository. Its later C++17 backend is separate from the original browser work described above.
+
+</details>
+
